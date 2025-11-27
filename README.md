@@ -1,5 +1,6 @@
 # Luanti-Server
 Projet du 27/11/25
+
 Afin de pouvoir être mené à bien, vous allez devoir faire preuve de rigueur, d’autonomie,
 et également avoir un sens aiguisé de l’organisation (si travail en binôme).
 Dans un premier temps, il est conseillé de prendre connaissance du service Luanti, et en
