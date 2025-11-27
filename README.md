@@ -34,10 +34,12 @@ dernier doit reposer sur une carte générée par IGN (voir annexe).
 précédentes
 
 Scripting
+
 Vous devez posséder un ensemble de script qui vous permet d’administrer le serveur et
 les mondes. Libre à vous de trouver les scripts qui vous seront utiles
 
 Cybersécurité
+
 Vous devez mettre en place toutes configurations et/ou services qui permettent de
 sécuriser le serveur.
 Il est demandé, tout particulièrement, de mettre en place une sécurité concernant les
