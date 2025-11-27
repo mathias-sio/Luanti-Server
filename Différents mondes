@@ -2,3 +2,4 @@ Ici, nous allons en détail, la configuration des mondes Luanti
 D'abord, quelques rappels, Toute l’infrastructure à été mise en place sur des machines linux, version debian en réseau interne. 
 Après la première réalisation, nous avons décidé de gérer notre serveur et nos mondes via LXC, à travers différents conteneurs.
 Voilà les différents mondes 
+Capture d'écran 2025-11-27 135053.png
