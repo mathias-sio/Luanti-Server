@@ -14,7 +14,7 @@ dessous:
 services, dernier redémarrage du serveur et/ou des services, …), et aux différents
 mondes doivent être fournies via une page web sécurisée via SSL.
 
-#Quelques Détails 
+Quelques Détails 
 
 Le serveur doit disposer d’au moins 5 mondes (world):
 - monde classique: Configuration standard, sans particularité (Vanilla).
